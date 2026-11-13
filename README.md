@@ -1,15 +1,5 @@
 # How-to-Extend-your-Linux-s-Storage---VMware
 > Recently I've encountered this problem on VMWare while extending the storage of my Kali Linux Machine
-
-
-Claude
-
-
-How to extend your linux storage vmware · MD
-# How to Extend your Linux's Storage - VMware
- 
-A step-by-step guide, from a black screen to a fully grown root partition. Written from a real case: a Kali Linux VM in VMware Workstation whose 25 GB disk was 100% full, extended to 50 GB.
- 
 ---
  
 ## Overview
